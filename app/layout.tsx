@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "My App",
-  description: "Welcome to my application",
+  title: "Campus Canteen - Pre-Order Your Food",
+  description: "Skip the queue! Pre-order food from your college canteen and pick it up when ready.",
 }
 
 export default function RootLayout({
